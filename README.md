@@ -1,2 +1,6 @@
 # TaoRS
-learn RS/ML/DL/CTR and so on
+这个仓库主要用于学习提升
+RS/CTR或者其他一些机器学习深度学习的东西
+学习一些大佬们的代码规范
+也用来记录一些leetcode的解法
+
